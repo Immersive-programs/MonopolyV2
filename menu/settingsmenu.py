@@ -89,7 +89,7 @@ class SettingsMenu:
                 self.__savesettings()
             elif self.selsected == 1:
                 self.Loader.sound = not self.Loader.sound
-                self.Loader.Beeper.isenabled = self.Loader.sound
+                self.Loader.Buzzer.isenabled = self.Loader.sound
                 if self.Loader.sound:
                     self.Loader.beep([[700,100],[1100,100]])
                 self.__showmenu()
