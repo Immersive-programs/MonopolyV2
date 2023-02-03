@@ -23,7 +23,7 @@
 # Сreated by Immersive-programs:
 #   github: https://github.com/Immersive-programs/micropython-toneplayback
 from machine import PWM, Timer
-class Beeper:
+class Buzzer:
     """Tone playback"""
     
     def __init__(self, pin):
