@@ -54,7 +54,7 @@ class Loader:
         self.sound = True
         self.contrast = 37
         self.__loadsettings()
-        self.Beeper.isenabled = self.sound
+        self.Buzzer.isenabled = self.sound
         
         self.Display.set_contrast(self.contrast)
         
