@@ -1,7 +1,7 @@
 from machine import Pin, SoftSPI, PWM, Timer
 from matrixkeyboard import MatrixKeyboard
 from ir_rx.nec import NEC_8
-from beeper import Beeper
+from buzzer import Buzzer
 import NFC_PN532 as nfc
 import math
 import os
@@ -40,8 +40,8 @@ class Loader:
         
         self.setrgb(0.05, 0, 0)
         
-        self.Beeper = Beeper(Pin(0))
-        self.beep = self.Beeper.beep
+        self.Buzzer = Buzzer(Pin(0))
+        self.beep = self.Buzzer.beep
                
         sspi = SoftSPI(baudrate=1000000,sck=Pin(6), mosi=Pin(7), miso=Pin(8))
         self.pn532 = nfc.PN532(sspi, Pin(9, Pin.OUT, value = 1))
