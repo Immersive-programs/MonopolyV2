@@ -1,13 +1,13 @@
 # Monopoly Terminal V2
 
-# English: https://youtu.be/6EhA8CsS5kU
+# English: 
 
 <details>
 <summary> <b></b> (<i>click to expand</i>)</summary>
 
 ## The project of an electronic terminal for the game Monopoly
 
-Video on YouTube:
+Video on YouTube: https://youtu.be/6EhA8CsS5kU
 
 ### Terminal Features:
 - Support for RFID cards;
@@ -150,14 +150,14 @@ Video on YouTube:
 - Code author: Denis
 </details>
 
-# Русский: https://youtu.be/6EhA8CsS5kU
+# Русский: 
 
 <details>
 <summary> <b></b> (<i>нажмите, чтобы развернуть</i>)</summary>
 
 ## Проект электронного терминала для игры Monopoly
 
-Ролик на YouTube:
+Ролик на YouTube: https://youtu.be/6EhA8CsS5kU
 
 ### Особенности терминала:
 - Поддержка RFID карт;
