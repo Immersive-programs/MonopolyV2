@@ -71,6 +71,12 @@ Video on YouTube:
   Contact name| I/O port
   --- | ---
   Power | 0
+  
+    <details>
+    <summary> <b>Scheme</b> (<i>click to expand</i>)</summary>
+  
+    ![f](https://user-images.githubusercontent.com/80697141/216764820-6227f769-2010-4c46-a848-6ea7723754f7.png)
+    </details>
   </details>
   
   <details>
@@ -215,6 +221,12 @@ Video on YouTube:
   Название контакта | I/O порт
   --- | ---
   Power | 0
+  
+  <details>
+  <summary> <b>Схема</b> (<i>нажмите, чтобы развернуть</i>)</summary>
+  
+  ![f](https://user-images.githubusercontent.com/80697141/216764820-6227f769-2010-4c46-a848-6ea7723754f7.png)
+  </details>
 </details>
 
 <details>
