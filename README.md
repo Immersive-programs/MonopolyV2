@@ -2,6 +2,9 @@
 
 # English:
 
+<details>
+<summary> <b></b> (<i>click to expand</i>)</summary>
+
 ## The project of an electronic terminal for the game Monopoly
 
 Video on YouTube:
@@ -139,8 +142,12 @@ Video on YouTube:
 ### Creators:
 - Author of the ideaa: Nikita
 - Code author: Denis
+</details>
 
 # Русский:
+
+<details>
+<summary> <b></b> (<i>нажмите, чтобы развернуть</i>)</summary>
 
 ## Проект электронного терминала для игры Monopoly
 
@@ -279,3 +286,4 @@ Video on YouTube:
  ### Создатели:
  - Автор идеи: Никита
  - Автор кода: Денис
+</details>
