@@ -1,6 +1,6 @@
 # Monopoly Terminal V2
 
-# English:
+# English: https://youtu.be/6EhA8CsS5kU
 
 <details>
 <summary> <b></b> (<i>click to expand</i>)</summary>
@@ -150,7 +150,7 @@ Video on YouTube:
 - Code author: Denis
 </details>
 
-# Русский:
+# Русский: https://youtu.be/6EhA8CsS5kU
 
 <details>
 <summary> <b></b> (<i>нажмите, чтобы развернуть</i>)</summary>
